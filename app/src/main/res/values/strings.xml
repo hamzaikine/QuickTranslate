@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuickTranslate</string>
+    <string name="transtale">Translate</string>
+    <string name="enter_words_to_translate">Enter words to translate</string>
+</resources>
